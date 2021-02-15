@@ -6,5 +6,5 @@ for i in range(n_lines):
         x+=1
     else:
         x-=1
-print(int(x))
+print(x)
 
