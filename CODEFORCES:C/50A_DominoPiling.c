@@ -12,5 +12,5 @@ int main(int argc,char **argv){
     else{
         printf("%d",MAX(m,n)/2*MIN(m,n)+MIN(m,n)/2);
     }
-
+    return 0;
 }
